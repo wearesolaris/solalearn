@@ -1,0 +1,8 @@
+# Build files
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/cmake_install.cmake
+/yolo_mark
+x64/Release/darknet19_448.conv.23
+x64/Release/darknet53.conv.74
